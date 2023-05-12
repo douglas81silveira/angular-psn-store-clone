@@ -1,0 +1,9 @@
+.menu-logo__container {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
+.menu-logo__container > img {
+	margin-left: 15px;
+}
